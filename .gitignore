@@ -92,3 +92,8 @@ app.*.map.json
 
 # Coverage
 coverage/
+
+# Windows
+**/windows/flutter/generated_plugin_registrant.cc
+**/windows/flutter/generated_plugin_registrant.h
+**/windows/flutter/generated_plugins.cmake
